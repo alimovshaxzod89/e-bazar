@@ -1,0 +1,119 @@
+{
+  "products": [
+    {
+      "id": 55553,
+      "title": "Kartoshka",
+      "bulk": 40,
+      "begin_day": "24.10.22",
+      "end_day": null
+    },
+    {
+      "id": 96328,
+      "title": "Un ",
+      "bulk": 150,
+      "begin_day": "23.10.22",
+      "end_day": "4 oy"
+    },
+    {
+      "id": 50345,
+      "title": "Tuxun",
+      "bulk": "50",
+      "begin_day": "2.11.22",
+      "end_day": "2.12.22"
+    },
+    {
+      "id": 37642,
+      "title": "Shakar",
+      "bulk": 33,
+      "begin_day": "20.10.22",
+      "end_day": "4 oy"
+    },
+    {
+      "id": 98996,
+      "title": "Piyoz",
+      "bulk": 125,
+      "begin_day": "14.11.22",
+      "end_day": "-"
+    }
+  ],
+  "debtors": [
+    {
+      "id": 3,
+      "fullname": "Falonchayev Pismadincha",
+      "amount": "60 000",
+      "begin_day": "15.10.22",
+      "end_day": "30.10.22"
+    },
+    {
+      "id": 15519,
+      "fullname": "Qo'chqorov Qoziboy",
+      "amount": "30 000",
+      "begin_day": "23.10.22",
+      "end_day": "-"
+    },
+    {
+      "id": 61966,
+      "fullname": "Teshayev Bolta",
+      "amount": "200 000",
+      "begin_day": "29.10.22",
+      "end_day": null
+    },
+    {
+      "id": 8505,
+      "fullname": "Bekov Jonibek",
+      "amount": "400 000",
+      "begin_day": "1.11.22",
+      "end_day": "10.11.22"
+    }
+  ],
+  "dailysales": [
+    {
+      "id": 1,
+      "title": "Shakar",
+      "bulk": 5,
+      "price": 10000,
+      "last_price": 50000,
+      "date": "2.11.22"
+    },
+    {
+      "id": 2,
+      "title": "Un",
+      "bulk": 5,
+      "price": 8000,
+      "last_price": 40000,
+      "date": "2.11.22"
+    },
+    {
+      "id": 3,
+      "title": "Tuxun",
+      "bulk": 15,
+      "price": 1200,
+      "last_price": 18000,
+      "date": "2.11.22"
+    },
+    {
+      "id": 41432,
+      "title": "Shakar",
+      "bulk": "5",
+      "price": "10000",
+      "last_price": 50000,
+      "date": "2.11.22"
+    },
+    {
+      "id": 38303,
+      "title": "Piyoz",
+      "bulk": "10",
+      "price": "4000",
+      "last_price": 40000,
+      "date": "15.11.22"
+    },
+    {
+      "id": 7918,
+      "title": "Piyoz",
+      "bulk": "15",
+      "price": "4000",
+      "last_price": 60000,
+      "date": "15.11.22"
+    }
+  ]
+}
