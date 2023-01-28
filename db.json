@@ -34,6 +34,13 @@
       "bulk": 125,
       "begin_day": "14.11.22",
       "end_day": "-"
+    },
+    {
+      "id": 76577,
+      "title": "pomidor",
+      "bulk": 50,
+      "begin_day": "28.01.23",
+      "end_day": "5.02.23"
     }
   ],
   "debtors": [
@@ -114,6 +121,14 @@
       "price": "4000",
       "last_price": 60000,
       "date": "15.11.22"
+    },
+    {
+      "id": 63535,
+      "title": "pomidor",
+      "bulk": "50",
+      "price": "7000",
+      "last_price": 350000,
+      "date": "29.01.23"
     }
   ]
 }

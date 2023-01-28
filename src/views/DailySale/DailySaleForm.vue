@@ -104,6 +104,7 @@ export default {
                 close()
             )
             .then(
+                // for edit product's bulk
                 products.value.filter(el => {
                     if(el.title == newData.value.product_name){
                         oldProductId.value = el.id;
@@ -118,6 +119,7 @@ export default {
                 })
             )
             .then(
+                // for delete old product row 
                 store.commit('REMOVE_PRODUCT_ROW', oldProductId.value)
             )
         }
